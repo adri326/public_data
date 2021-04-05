@@ -1,2 +1,1 @@
-# swearwords
-A list of swearwords so I don't have to write them myself each time
+Basically a list of swearwords so I don't have to write them myself each time. Visit [this URL](https://raw.githubusercontent.com/AceKiron/swearwords/main/swearwords.txt) for the raw list.
